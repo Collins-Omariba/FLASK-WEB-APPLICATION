@@ -1,3 +1,3 @@
-# FLASK-WEB-APPLICATION
+# NOTE-TAKING-WEB-APPLICATION
 
-A simple Note taking app made using flask , HTML , CSS an vanilla Javasricpt
+A simple Note taking web app made using flask , HTML , CSS an vanilla Javasricpt
